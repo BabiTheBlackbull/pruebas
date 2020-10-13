@@ -1,5 +1,2 @@
 ## Programación
 ## Bases de datos
-## Linea de prueba
-## Interficies web
-## Tutoria
